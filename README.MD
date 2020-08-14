@@ -1,3 +1,13 @@
+# RUN
+
+Activate the virtual environment 
+
+source env/bin/activate
+
+Then run main.py program
+
+python3 main.py
+
 # Overview
 The goal of this project is to get an idea of:
 * Your ability to work with and grok data 
